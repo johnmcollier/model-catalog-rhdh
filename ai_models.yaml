@@ -27,7 +27,7 @@ spec:
     },
     "servers": [
       {
-        "url": "https://parasol-instruct-claimsbot-ai.apps.cluster-xxxxx.sandbox9999.opentlc.com",
+        "url": "https://vllm-aug16-rhtap-app.apps.jcollier-rhoaiaug1624.devcluster.openshift.com",
         "description": "vLLM endpoint"
       }
     ],
